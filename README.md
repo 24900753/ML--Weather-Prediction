@@ -115,8 +115,11 @@ print("R2 Score:", r2_energy)
 
 ```
 
+
 ## Output:
 
 <img width="295" height="256" alt="image" src="https://github.com/user-attachments/assets/0f6478b0-2ea3-42a8-90ca-7fcb928fa835" />
 
 ## Result:
+
+completed successfully
